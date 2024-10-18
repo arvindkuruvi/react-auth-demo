@@ -1,3 +1,6 @@
+Reference : https://dev.to/miracool/how-to-manage-user-authentication-with-react-js-3ic5
+
+
 In this blog post, we'll explore the seamless integration of JWT authentication with React and react-router. We'll also learn how to handle public routes, secure authenticated routes, and utilize the axios library to make API requests with the authentication token.
 
 ## Create a React Project
